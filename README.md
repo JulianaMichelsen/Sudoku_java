@@ -52,7 +52,7 @@ git clone https://github.com/JulianaMichelsen/Sudoku_java.git
 ---
 
 ## 🛠️ Tecnologias Utilizadas
-- ☕ **Java** (versão `XX`)
+- ☕ **Java** (versão `21`)
 - 🎨 **Swing** para interface gráfica
 - 📦 **POO** para organização do código
 - 🔢 Manipulação de **arrays bidimensionais** para lógica do jogo
